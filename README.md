@@ -24,7 +24,8 @@ How to use:
 2. Use pip to install PySimpleGUI 4.60.4, and pyvisa 1.13.0
 3. Place RemoteFrontPanel.py, RFP_Tk.py, and GUI.py in the same directory.
 4. Run RemoteFrontPanel.py with python 3.10.1  
-    I recommend creating a batch script, and shortcut to run the script with ease.  
+    I recommend creating a batch script, and shortcut to run the script with ease.
+    Included batch script is an example, must be modified for opperation.  
 
 UI next to MSO68B's front panel.  
 ![RFP](https://github.com/Spectral-Duck/MSO_RFP/assets/169471087/6a350cfd-454c-45fb-8112-7f5b270af8c0)
