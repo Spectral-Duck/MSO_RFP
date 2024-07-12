@@ -3,8 +3,9 @@ Simple Remote Front Pannel for Tektronix MSO2/4/5/6 Series Oscilloscopes
 
 Built using the following:  
 Python         V3.10.1  
-PySimpleGUI    V4.60.4  
-pyvisa         V1.13.0  
+FreeSimpleGUI  V5.1.0  
+pyvisa         V1.13.0
+pyvisa_py      V0.7.0
 
 
 Key Features:  
@@ -21,9 +22,12 @@ Remote saving of waveforms not supported.  Use session files instead.
 
 How to use:  
 1. Make sure you have python 3.10.1 working.
-2. Use pip to install PySimpleGUI 4.60.4, and pyvisa 1.13.0
-3. Place RemoteFrontPanel.py, RFP_Tk.py, and GUI.py in the same directory.
-4. Run RemoteFrontPanel.py with python 3.10.1  
+2. Use pip to install FreeSimpleGUI 5.1.0, pyvisa 1.13.0, and pyvisa_py 0.7.0
+   pip install FreeSimpleGUI==5.1.0
+   pip install pyvisa==1.13.0
+   pip install pyvisa_py==0.7.0
+4. Place RemoteFrontPanel.py, RFP_Tk.py, and GUI.py in the same directory.
+5. Run RemoteFrontPanel.py with python 3.10.1  
     I recommend creating a batch script, and shortcut to run the script with ease.
     Included batch script is an example, must be modified for opperation.  
 
