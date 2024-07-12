@@ -5,7 +5,7 @@
     The only issue I can forsee for this apprach is using invalid buttons will enable ESR bit 32
 """
 
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 
 # defining the widths for each button
 small = 7
