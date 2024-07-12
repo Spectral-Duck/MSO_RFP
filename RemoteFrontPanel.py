@@ -5,7 +5,7 @@
 """
 
 # Written in Python V3.10.1
-import PySimpleGUI as sg  #https://www.pysimplegui.com/ V4.60.4 - Easy GUI builder for python
+import FreeSimpleGUI as sg  #https://github.com/spyoungtech/FreeSimpleGUI V5.1.0 - Easy GUI builder for python
 import pyvisa # https://pyvisa.readthedocs.io/en/latest/ V1.13.0 - PyVISA allows for communication with a scope
 from GUI import * # GUI definitions, in its own file to reduce clutter
 import RFP_Tk # Remote Front Panel Toolkit, in its own file to reduce clutter
