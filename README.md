@@ -22,10 +22,10 @@ Remote saving of waveforms not supported.  Use session files instead.
 
 How to use:  
 1. Make sure you have python 3.10.1 working.
-2. Use pip to install FreeSimpleGUI 5.1.0, pyvisa 1.13.0, and pyvisa_py 0.7.0
-   pip install FreeSimpleGUI==5.1.0
-   pip install pyvisa==1.13.0
-   pip install pyvisa_py==0.7.0
+2. Use pip to install FreeSimpleGUI 5.1.0, pyvisa 1.13.0, and pyvisa_py 0.7.0  
+   pip install FreeSimpleGUI==5.1.0  
+   pip install pyvisa==1.13.0  
+   pip install pyvisa_py==0.7.0  
 4. Place RemoteFrontPanel.py, RFP_Tk.py, and GUI.py in the same directory.
 5. Run RemoteFrontPanel.py with python 3.10.1  
     I recommend creating a batch script, and shortcut to run the script with ease.
