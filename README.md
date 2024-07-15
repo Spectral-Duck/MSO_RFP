@@ -4,7 +4,7 @@ Simple Remote Front Pannel for Tektronix MSO2/4/5/6 Series Oscilloscopes
 Built using the following:  
 Python         V3.10.1  
 FreeSimpleGUI  V5.1.0  
-pyvisa         V1.13.0
+pyvisa         V1.13.0  
 pyvisa_py      V0.7.0
 
 
