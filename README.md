@@ -1,5 +1,5 @@
 # MSO_RFP
-Simple Remote Front Pannel for Tektronix MSO2/4/5/6 Series Oscilloscopes
+Simple Remote Front Pannel for Tektronix MSO2/4/5/6/7 Series Oscilloscopes
 
 Built using the following:  
 Python         V3.10.1  
