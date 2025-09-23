@@ -230,4 +230,6 @@ valid_instruments = [ #if additional instruments would work, add to list.
     'MSO64B',
     'MSO66B',
     'MSO68B',
+    'DPO714AX',
+
 ]
